@@ -1,10 +1,10 @@
 ---
-id: pizza-sourdough-variant
-title: Pizza Sourdough Variant
-sidebar_label: Pizza Sourdough Variant
+id: sourdough-pizza
+title: Sourdough Pizza
+sidebar_label: Sourdough Pizza
 ---
 
-This is my attempt to use more of my sourdough starter while circumventing the yeast shortage that's currently going on during the CoVid Crisis.
+My attempt to use more of my sourdough starter while circumventing the yeast shortage that's currently going on during the CoVid Crisis.
 
 ## Ingredients 
 
