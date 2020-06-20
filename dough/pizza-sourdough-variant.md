@@ -4,9 +4,11 @@ title: Pizza Sourdough Variant
 sidebar_label: Pizza Sourdough Variant
 ---
 
+This is my attempt to use more of my sourdough starter while circumventing the yeast shortage that's currently going on during the CoVid Crisis.
+
 ## Ingredients 
 
-+ 100g Sourdough Starter
++ 100g Sourdough Starter (100% hydration)
 + 300g of flour
 + 180g of water
 + Dash of Honey or Sugar
