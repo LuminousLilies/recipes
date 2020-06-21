@@ -1,8 +1,10 @@
 ---
-id: pizza-sourdough-variant
-title: Pizza Sourdough Variant
-sidebar_label: Pizza Sourdough Variant
+id: spicy-pizza-sauce
+title: Spicy Pizza Sauce
+sidebar_label: Spicy Pizza Sauce
 ---
+
+Spicy Pizza Sauce
 
 ## Ingredients 
 
