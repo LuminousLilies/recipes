@@ -10,7 +10,7 @@ My attempt to use more of my sourdough starter while circumventing the yeast sho
 
 + 50 Sourdough Starter (100% hydration)
 + 140g of Flour
-+ 60 of Water
++ 60g of Water
 + 1/2 Teaspoon of Salt
 + 1/4 Teaspoon of Baking Powder
 + 15g Tablespoon of Vegetable Oil
