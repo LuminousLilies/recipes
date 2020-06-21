@@ -9,8 +9,8 @@ My attempt to use more of my sourdough starter while circumventing the yeast sho
 ## Ingredients 
 
 + 100g Sourdough Starter (100% hydration)
-+ 300g of flour
-+ 180g of water
++ 300g of Flour
++ 180g of Water
 + Dash of Honey or Sugar
 + 1 Teaspoon of Salt
 + 1 Tablespoon of Olive Oil
