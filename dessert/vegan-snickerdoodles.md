@@ -10,12 +10,11 @@ Tasty vegan snickerdoodle cookies
 
 ### Dry
 
-+ 1 Cup of Vegan Sugar
++ 2.5 Cups of Flour
++ 1.5 Cup of Vegan Sugar
 + 1 Tablespoon of Cinnamon
 + 1 Teaspoon of Baking Soda
 + 2 Teaspoons of Cream of Tartar
-+ 1.5 Cups of Sugar
-+ 2.5 Cups of Flour
 
 ### Wet
 
